@@ -1,1 +1,1 @@
-# Reszponziv_weboldal
+# vizsga_pekseg_reszponziv
